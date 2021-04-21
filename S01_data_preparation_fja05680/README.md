@@ -1,4 +1,4 @@
-## Step 1
+# Step 1
 
 We have to create two files:
 - **fja_unique_tickers**: A list of all tickers ever listed in the index.
